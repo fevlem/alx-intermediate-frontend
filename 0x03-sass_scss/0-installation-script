@@ -1,0 +1,18 @@
+Steps to Write SASS (SCSS syntax):
+Install SASS
+First, install the Sass tool on your computer or in your project using a package manager like npm.
+
+Create Your Project Structure
+Make folders for your SCSS files and a separate folder where the compiled CSS will go.
+
+Write Your SCSS File
+Create a .scss file and write your styles using variables, nesting, mixins, etc.
+
+Compile SCSS to CSS
+Use the Sass command to convert your .scss file into a regular .css file that browsers understand.
+
+Link the CSS File to HTML
+In your HTML, include the compiled CSS file.
+
+Keep Editing and Compiling
+As you make changes to your SCSS file, recompile it or use a watch mode to do it automatically.
